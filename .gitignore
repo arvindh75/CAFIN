@@ -1,0 +1,15 @@
+src/nc/data/*
+src/nc/res/*
+src/nc/res_log
+src/nc/ppi/data
+src/nc/__pycache__
+src/nc/ppi/__pycache__
+
+__pycache__
+
+src/lp/data/*
+src/lp/res/*
+src/lp/res_log
+src/lp/ppi/data
+src/lp/__pycache__
+src/lp/ppi/__pycache__
