@@ -1,5 +1,7 @@
 src/nc/data/*
+!src/nc/data/.gitkeep
 src/nc/res/*
+!src/nc/res/.gitkeep
 src/nc/res_log
 src/nc/ppi/data
 src/nc/__pycache__
@@ -8,7 +10,9 @@ src/nc/ppi/__pycache__
 __pycache__
 
 src/lp/data/*
+!src/lp/data/.gitkeep
 src/lp/res/*
+!src/lp/res/.gitkeep
 src/lp/res_log
 src/lp/ppi/data
 src/lp/__pycache__
